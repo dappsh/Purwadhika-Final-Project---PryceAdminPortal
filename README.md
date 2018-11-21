@@ -1,4 +1,4 @@
-## [Admin login]
+## Admin login
 ![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-login.jpg)
 
 ## Admin Dashboard
