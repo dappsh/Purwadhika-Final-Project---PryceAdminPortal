@@ -8,7 +8,7 @@
 ![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-addproduct.jpg)
 
 ## Update Product
-![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-add-update.jpg)
+![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-update.jpg)
 
 
 
