@@ -1,3 +1,17 @@
+## [Admin login]
+![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-login.jpg)
+
+## Admin Dashboard
+![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-dashboard.jpg)
+
+## Add New Product
+![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-addproduct.jpg)
+
+## Update Product
+![alt text](https://github.com/dappsh/PryceAdminPortal/blob/master/src/img/admin-add-update.jpg)
+
+
+
 # [Light Bootstrap Dashboard React](http://lbd-react.creative-tim.com/)
 [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
